@@ -1,0 +1,51 @@
+name: try_1
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_vector_icons: ^2.0.0
+  font_awesome_flutter: ^10.5.0
+  http: ^0.13.6
+  url_launcher: ^6.2.6
+  shared_preferences: ^2.2.2
+
+
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1  # ← Ajouté ici
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/avatar.png
+    - assets/amb.png
+    - assets/user_placeholder.png
+    - assets/bronze.png
+    - assets/argent.png
+    - assets/or.png
+    - assets/vernelle.png
+    - assets/platine.png
+    - assets/comme.png
+    - assets/c1.png
+    - assets/c2.png
+    - assets/c3.png
+    - assets/c4.png
+    - assets/c5.png
+    - assets/c7.png
+
+flutter_icons:
+  android: true
+  ios: false
+  image_path: "C:/Users/WINDOWS 10/Downloads/Sonatrach-Logo.wine.png"  # ← Mets ici ton icône carrée (512x512)
