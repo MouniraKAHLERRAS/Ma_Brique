@@ -15,3 +15,15 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# Ma_Brique" 
+# Application RH avec Chatbot 🤖
+
+## 📱 Captures d’écran de l’application
+
+### Écran d’accueil
+![Accueil](image1.jpeg)
+
+### chatbot
+![chatbot](image2.jpeg)
+
+### fonctinnalités
+![fonctinnalités](image3.jpeg)
